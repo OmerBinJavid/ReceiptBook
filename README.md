@@ -1,0 +1,3 @@
+https://drive.google.com/file/d/1ObCqKWXjEHPh7bAQThLOBbrztH1kXR1x/view?usp=drivesdk
+
+This video demonstrates how this application works.I used firebase auth for registration, firestore for storing data and firebase storage for storing images. To manage this project azure devops is used. https://dev.azure.com/omerbinjavid28/Receipt%20Book There is the link for azure devops project.To build this project I used the Azure board which is an Azure tool to build the software and I used azure repo to pull the project in Azure cloud.The azure repo is connected to GitHub.From the above video u can see how the application functions and in azure devops link u can see  how I managed the project using azure. 
